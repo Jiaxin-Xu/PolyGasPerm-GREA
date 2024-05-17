@@ -40,12 +40,12 @@ python main.py --add_fp ECFP --dataset CH4
 
 If you use this code, please cite the following paper:
 
-'''
+```
 @article{xu2024superior,
   title={Superior Polymeric Gas Separation Membrane Designed by Explainable Graph Machine Learning},
   author={Xu, Jiaxin and Suleiman, Agboola and Liu, Gang and Perez, Michael and Zhang, Renzheng and Jiang, Meng and Guo, Ruilan and Luo, Tengfei},
   journal={arXiv preprint arXiv:2404.10903},
   year={2024}
 }
-'''
+```
 
